@@ -64,6 +64,7 @@ label {
   justify-content: center;
   gap: 100px;
   margin: 0 120px;
+  bottom: 0;
 }
 
 .pp {
@@ -95,4 +96,3 @@ label {
   align-items: center;
 
 }
-

@@ -40,3 +40,23 @@ h1 {
     background: #4D7C8A;
     color: white;
 }
+
+.rodape {
+    padding: 50px;
+    border-top: 0.4px solid #D3D3D3;
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 100px;
+    margin: 0 120px;
+    bottom: 0;
+  }
+  
+  
+  .nav-footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+  }
